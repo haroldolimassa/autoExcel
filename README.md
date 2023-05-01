@@ -1,0 +1,2 @@
+# autoExcel
+Excel > .txt > SQL
